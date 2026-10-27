@@ -53,4 +53,4 @@ anas@github:~$ echo $MOTTO
 
 **Connect with me**
 
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/AnasLtaief)
+[LinkedIn](https://www.linkedin.com/in/anas-ltaief/) · [GitHub](https://github.com/AnasLtaief)
